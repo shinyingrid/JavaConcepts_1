@@ -11,6 +11,8 @@ public class GitPullPushDemo
 		//Push 3 : Shiny
 		
 		//push : Preethi
+
+		//pull : Hitha
 		
 	System.out.println(" hi ");
 }
